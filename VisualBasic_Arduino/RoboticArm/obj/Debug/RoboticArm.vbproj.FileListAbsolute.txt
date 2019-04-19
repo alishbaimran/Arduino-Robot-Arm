@@ -1,0 +1,12 @@
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\bin\Debug\RoboticArm.exe.config
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\bin\Debug\RoboticArm.exe
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\bin\Debug\RoboticArm.pdb
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\bin\Debug\RoboticArm.xml
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.vbprojResolveAssemblyReference.cache
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.Resources.resources
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.vbproj.GenerateResource.Cache
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.vbproj.CoreCompileInputs.cache
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.exe
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.xml
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.pdb
+C:\Users\Acer\Desktop\RoboticArm\VBapp\RoboticArm\RoboticArm\obj\Debug\RoboticArm.main.resources
